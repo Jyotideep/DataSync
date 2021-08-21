@@ -63,6 +63,8 @@ CREATE TABLE `company_data` (
 
 
 2.demo:
+
+
 CREATE TABLE `demo` (
   `SrNo` int NOT NULL AUTO_INCREMENT,
   `BDM1Designation` varchar(250) DEFAULT NULL,
